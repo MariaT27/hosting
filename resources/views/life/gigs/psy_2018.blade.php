@@ -5,11 +5,13 @@
 @section('content')
 @ru
   <p>Начнем с предыстории. Впервые про Сая услышал в августе 2012 года во время просмотра ежегодного чемпионата по Доте 2. У песни <a class="link" href="https://www.youtube.com/watch?v=9bZkp7q19f0">Гангнам стайл</a> тогда было «всего» несколько сотен миллионов просмотров, но к декабрю того же года она преодолела рубеж в миллиард, став международным хитом. Тогда еще вычитал, что у Сая в послужном списке было уже шесть альбомов.</p>
+@en
+  <p>2013 год. Let’s start with the prehistory. The first time I heard PSY was in August 2012 while watching annual Dota 2 championship. At that moment the song “Gangnam style” had only a few millions of hits, but by December the same year it reached more than one billion and became the international hit song. At that time I read PSY had under his belt 6 albums. .</p>
 @endru
 
 @ru
-  <p>2013 год. Заглянул на его канал вновь — тогда появился сингл Джентльмен. Тоже бомбический трек.</p>
-@endru
+  <p>2013 год. Заглянул на его канал вновь — тогда появился сингл Джентльмен. Тоже бомбический трек.</p> 
+@endru 
 
 @ru
   <p>2018 год. В очередной раз вспомнил про Сая на рубеже лета и осени. И в этот раз меня унесло. Попалась куча концертных видосов, причем поиск на корейском выдавал куда более интересные результаты, в том числе любительские записи с полей. Вместе с этим был изучен официальный твиттер и инстаграм.</p>
